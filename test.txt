@@ -1,4 +1,8 @@
 1zjgaz�oaremlgnglnzrl�ngaz�lrngaez�lkrgnelrgvknri
 2fmihfgmkjzrfgmkjezgnmkjg
 3zekfkjezfkljfkjzfmkjzefmkj
+<<<<<<< HEAD
 4zrhmkrfgzmkjrgnmkgkm_dev1mod
+=======
+4zrhmkrfgzmkjrgnmkgkm_dev2mod
+>>>>>>> 5d060fec828c59e8c9ec9febe899e4154fb1a713
